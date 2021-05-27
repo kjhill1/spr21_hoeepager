@@ -8,7 +8,7 @@
 <meta charset="utf-8"/> 
 
 <!-- <script src=" "></script>(JS for interactive pages) -->
-<link rel="stylesheet" href="css/nav.css"/>
+<link rel="stylesheet" href="css/nav.css" />
 </head>
 
 
@@ -21,12 +21,9 @@
   <h2>Design & Developement Portfolio</h2>
   <nav>
     <ul class="topnav" id="myTopnav">
-    <li><a href="it172/172.html">it172UX/UD</a></li>
-    <li><a href="it163/163.html">it163 Group Site - tech4good</a></li>
-    <li><a href="it121/121.html">it121 JavaScript</a></li>
-    <!-- <li><a href="../index_v2_homekjhd.php">Back to Web Designer's Home#1?</a></li> -->
-    <!-- <li><a href="../index.v2.html">Back to Web Designer's Home #2?</a></li> -->
-    <li><a href=".../index_v2_homekjhd.php">Back to Web Designer's Home</a></li>
+    <li><a href="it172/172.html">it172 E-commerce Website Redesign</a></li>
+    <li><a href="it163/163.html">Web Authering III it163</a></li>
+    <li><a href="it121/121.html">121 Intro to JavaScript</a></li>
     </ul>
     </nav> 
 
